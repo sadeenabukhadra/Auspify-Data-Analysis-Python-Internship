@@ -1,4 +1,4 @@
-# 📊 Data Analysis Using Python Internship
+# Data Analysis Using Python Internship
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -10,21 +10,20 @@ This repository documents my learning journey and hands-on experience with Pytho
 
 ---
 
-# 🏢 Internship Information
+# Internship Information
 
 | Information | Details |
 |---|---|
 | Company | Auspify Technologies |
 | Program | Data Analysis Using Python Internship |
 | Duration | 17/07/2026 - 17/08/2026 |
-| Work Mode | Remote / Flexible Working Hours |
 
-🌐 **Company Website:**  
+ **Company Website:**  
 https://auspify.com/
 
 ---
 
-# 🎯 Internship Objectives
+#  Internship Objectives
 
 The main objectives of this internship are to develop practical skills in:
 
@@ -38,7 +37,7 @@ The main objectives of this internship are to develop practical skills in:
 
 ---
 
-# 🛠️ Technologies & Tools
+# Technologies & Tools
 
 ### Programming Language
 - Python
@@ -61,7 +60,7 @@ The main objectives of this internship are to develop practical skills in:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 Auspify-Data-Analysis-Python-Internship
@@ -83,7 +82,7 @@ Auspify-Data-Analysis-Python-Internship
 
 ---
 
-# 📋 Internship Projects Progress
+#  Internship Projects Progress
 
 | # | Project | Description | Status |
 |---|---|---|---|
@@ -91,70 +90,6 @@ Auspify-Data-Analysis-Python-Internship
 | 02 | Content Type Analysis Dashboard | Analyzing Movies and TV Shows distribution | ⏳ Not Started |
 | 03 | Country-Wise Netflix Content Analysis | Exploring Netflix content by country | ⏳ Not Started |
 | 04 | Trend Analysis by Release Year | Analyzing content trends over time | ⏳ Not Started |
-
----
-
-# 📌 Completed Projects
-
-## 01. Netflix Data Cleaning & Preparation
-
-### Overview
-
-The objective of this project is to prepare the Netflix dataset for business analytics by improving data quality and ensuring consistency.
-
-### Tasks Performed
-
-- Imported the dataset using Pandas
-- Explored dataset structure and features
-- Checked missing values
-- Verified duplicate records
-- Standardized categorical columns
-- Exported the cleaned dataset
-
-### Key Results
-
-- Dataset contains **8,790 records**
-- Dataset contains **10 columns**
-- No missing values detected
-- No duplicate records found
-- Data formatting consistency was verified
-
-### Skills Applied
-
-- Data Cleaning
-- Data Preprocessing
-- Data Validation
-- Pandas Operations
-
-📁 Project Folder:
-
-```
-01_Netflix_Data_Cleaning_Preparation
-```
-
----
-
-# 📈 Future Projects
-
-Additional projects will be added as I progress through the internship, including:
-
-- Content analysis dashboards
-- Country-based analysis
-- Trend analysis
-- Business insights generation
-
----
-
-# 📚 Learning Outcomes
-
-Through this internship, I am developing experience in:
-
-- Working with real-world datasets
-- Preparing data for analysis
-- Performing exploratory analysis
-- Creating meaningful visualizations
-- Communicating analytical findings
-- Organizing professional data projects
 
 ---
 
