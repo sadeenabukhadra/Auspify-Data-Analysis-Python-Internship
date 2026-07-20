@@ -13,7 +13,6 @@ Throughout this internship, I work on practical data analysis tasks using Python
 | Company | Auspify Technologies |
 | Program | Data Analysis Using Python Internship |
 | Duration | 17/07/2026 - 17/08/2026 |
-| Work Mode | Remote / Flexible Working Hours |
 
 Company Website:  
 https://auspify.com/
@@ -71,15 +70,15 @@ Auspify-Data-Analysis-Python-Internship
 │   ├── Dataset
 │   └── Screenshots
 │
-├── 02_Content_Type_Analysis_Dashboard
+├── 02_Trend_Analysis_by_Release_Year
 │   ├── README.md
 │   └── Project Files
 │
-├── 03_Country_Wise_Content_Analysis
+├── 03_Content_Rating_&_Genre_Analysis
 │   ├── README.md
 │   └── Project Files
 │
-└── 04_Trend_Analysis_by_Release_Year
+└── 04_Netflix_Business_Insights_Report
     ├── README.md
     └── Project Files
 ```
@@ -91,9 +90,9 @@ Auspify-Data-Analysis-Python-Internship
 | # | Project | Status |
 |---|---|---|
 | 01 | Netflix Data Cleaning & Preparation | Completed |
-| 02 | Content Type Analysis Dashboard | Not Started |
-| 03 | Country-Wise Netflix Content Analysis | Not Started |
-| 04 | Trend Analysis by Release Year | Not Started |
+| 02 | Trend Analysis by Release Year | Not Started |
+| 03 | Content Rating & Genre Analysis | Not Started |
+| 04 | Netflix Business Insights Report | Not Started |
 
 ---
 
