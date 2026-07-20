@@ -122,9 +122,12 @@ screenshots/
 Screenshots showing the cleaning and verification steps.
 
 ---
+Screenshots showing the cleaning and verification steps.
+
+---
 
 ## Conclusion
 
 The Netflix dataset was successfully cleaned and prepared for business analysis.
 
-The final dataset contains consistent formatting, no missing values, and no duplicate rec
+The final dataset contains consistent formatting, no missing values, and no duplicate records, making it ready for further exploratory data analysis and visualization tasks.
