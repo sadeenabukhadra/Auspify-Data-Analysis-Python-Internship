@@ -1,43 +1,41 @@
 # Data Analysis Using Python Internship
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+This repository documents my learning journey, projects, and practical experience during my **Data Analysis Using Python Internship at Auspify Technologies**.
 
-A collection of practical data analysis projects completed during my **Data Analysis Using Python Internship at Auspify Technologies**.
-
-This repository documents my learning journey and hands-on experience with Python-based data analysis workflows, including data cleaning, exploratory data analysis, visualization, and generating insights from real-world datasets.
+Throughout this internship, I work on practical data analysis tasks using Python, focusing on data preprocessing, exploratory data analysis, visualization, and extracting insights from real-world datasets.
 
 ---
 
-# Internship Information
+## Internship Information
 
 | Information | Details |
 |---|---|
 | Company | Auspify Technologies |
 | Program | Data Analysis Using Python Internship |
 | Duration | 17/07/2026 - 17/08/2026 |
+| Work Mode | Remote / Flexible Working Hours |
 
- **Company Website:**  
+Company Website:  
 https://auspify.com/
 
 ---
 
-#  Internship Objectives
+## Internship Objectives
 
-The main objectives of this internship are to develop practical skills in:
+The internship aims to develop practical skills in Python-based data analysis and apply analytical techniques to real-world datasets.
 
-- Data cleaning and preprocessing
+Main areas of focus:
+
+- Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Data visualization
-- Business analytics
-- Extracting meaningful insights from datasets
-- Applying Python tools in real-world scenarios
-- Building professional data analysis projects
+- Data Visualization
+- Business Analytics
+- Data Interpretation
+- Professional Project Documentation
 
 ---
 
-# Technologies & Tools
+## Technologies and Tools
 
 ### Programming Language
 - Python
@@ -46,7 +44,7 @@ The main objectives of this internship are to develop practical skills in:
 - Pandas
 - NumPy
 
-### Visualization
+### Visualization Libraries
 - Matplotlib
 - Seaborn
 
@@ -60,37 +58,60 @@ The main objectives of this internship are to develop practical skills in:
 
 ---
 
-#  Repository Structure
+## Repository Structure
 
-```text
+```
 Auspify-Data-Analysis-Python-Internship
 │
 ├── README.md
 │
 ├── 01_Netflix_Data_Cleaning_Preparation
-│   ├── Notebook
-│   ├── Cleaned Dataset
 │   ├── README.md
+│   ├── Notebook
+│   ├── Dataset
 │   └── Screenshots
 │
 ├── 02_Content_Type_Analysis_Dashboard
+│   ├── README.md
+│   └── Project Files
 │
 ├── 03_Country_Wise_Content_Analysis
+│   ├── README.md
+│   └── Project Files
 │
 └── 04_Trend_Analysis_by_Release_Year
+    ├── README.md
+    └── Project Files
 ```
 
 ---
 
-#  Internship Projects Progress
+## Internship Progress
 
-| # | Project | Description | Status |
-|---|---|---|---|
-| 01 | Netflix Data Cleaning & Preparation | Cleaning and preparing Netflix dataset for analysis | ✅ Completed |
-| 02 | Content Type Analysis Dashboard | Analyzing Movies and TV Shows distribution | ⏳ Not Started |
-| 03 | Country-Wise Netflix Content Analysis | Exploring Netflix content by country | ⏳ Not Started |
-| 04 | Trend Analysis by Release Year | Analyzing content trends over time | ⏳ Not Started |
+| # | Project | Status |
+|---|---|---|
+| 01 | Netflix Data Cleaning & Preparation | Completed |
+| 02 | Content Type Analysis Dashboard | Not Started |
+| 03 | Country-Wise Netflix Content Analysis | Not Started |
+| 04 | Trend Analysis by Release Year | Not Started |
 
+---
 
+## Learning Journey
 
-⭐ This repository will be continuously updated as new internship projects are completed.
+During this internship, I am developing experience in:
+
+- Working with real-world datasets
+- Applying Python for data analysis
+- Performing data quality checks
+- Creating analytical workflows
+- Visualizing and interpreting data
+- Organizing professional projects using GitHub
+
+---
+
+## Updates
+
+This repository will be updated continuously as new internship tasks and projects are completed.
+
+---
