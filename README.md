@@ -91,21 +91,6 @@ Auspify-Data-Analysis-Python-Internship
 | 03 | Country-Wise Netflix Content Analysis | Exploring Netflix content by country | ⏳ Not Started |
 | 04 | Trend Analysis by Release Year | Analyzing content trends over time | ⏳ Not Started |
 
----
 
-# 👩‍💻 Author
-
-**Sadeen Mahmoud Abu Khadra**
-
-Data Science & Artificial Intelligence Student  
-Yarmouk University
-
-🔗 GitHub:  
-https://github.com/sadeenabukhadra
-
-🔗 LinkedIn:  
-(Add your LinkedIn profile link)
-
----
 
 ⭐ This repository will be continuously updated as new internship projects are completed.
