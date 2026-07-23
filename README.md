@@ -32,7 +32,7 @@ Main areas of focus:
 - Data Interpretation
 - Professional Project Documentation
 
----
+----
 
 ## Technologies and Tools
 
