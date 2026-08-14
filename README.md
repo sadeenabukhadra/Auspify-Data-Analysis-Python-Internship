@@ -92,7 +92,7 @@ Auspify-Data-Analysis-Python-Internship
 | 01 | Netflix Data Cleaning & Preparation | Completed |
 | 02 | Trend Analysis by Release Year | Completed |
 | 03 | Content Rating & Genre Analysis | Completed  |
-| 04 | Netflix Business Insights Report | Not Started |
+| 04 | Netflix Business Insights Report | Completed |
 
 ---
 
